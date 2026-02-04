@@ -1,0 +1,7 @@
+{
+  "name": "TechGloss: Technical Glossary & AI Assistant",
+  "description": "A professional technical glossary application for searching Japanese-Mongolian-English technical terms across various industries like Toyota manufacturing, resin molding, and design.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
